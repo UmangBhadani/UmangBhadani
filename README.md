@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=200&section=header&text=Umang&fontSize=38&fontColor=e5e7eb)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=280&section=header&text=Umang&fontSize=48&fontColor=e5e7eb)
 
 ### Full-Stack Developer | Automation & Systems
 
@@ -31,7 +31,7 @@ Tech: Node.js
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UmangBhadani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ---
 

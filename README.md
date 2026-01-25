@@ -1,7 +1,5 @@
 # Umang
 
-![ascii-art](https://raw.githubusercontent.com/UmangBhadani/UmangbBadani/main/ascii-art.png)
-
 **Full-Stack Developer
 
 ## Tech Stack
